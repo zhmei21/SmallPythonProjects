@@ -16,8 +16,7 @@ try:
 except Exception as e:
     print("An error has occurred while reading the file:", str(e))
 
-f = open("example.txt", "r")
-
+#f = open("example.txt", "r")
 #lines = 1
 #for content in f:
 #    print("Line %d: %s"%(lines, content))
