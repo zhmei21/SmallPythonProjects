@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+  <car>
+    <itemNumber>A001</itemNumber>
+    <ps>150</ps>
+    <brand>BMW</brand>
+    <price>30000</price>
+  </car>
+  <car>
+    <itemNumber>A002</itemNumber>
+    <ps>120</ps>
+    <brand>Audi</brand>
+    <price>25000</price>
+  </car>
+  <car>
+    <itemNumber>A003</itemNumber>
+    <ps>100</ps>
+    <brand>Mercedes</brand>
+    <price>35000</price>
+  </car>
+</cars>
